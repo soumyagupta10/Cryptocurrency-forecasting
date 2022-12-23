@@ -1,2 +1,2 @@
-# Cryptocurrency-forecastinh
+# Cryptocurrency-forecasting
 Power BI project
